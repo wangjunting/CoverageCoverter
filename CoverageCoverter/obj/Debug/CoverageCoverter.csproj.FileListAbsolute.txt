@@ -1,0 +1,9 @@
+E:\tomcat\workspace\CoverageCoverter\CoverageCoverter\bin\Debug\CoverageCoverter.exe.config
+E:\tomcat\workspace\CoverageCoverter\CoverageCoverter\obj\Debug\CoverageCoverter.csprojResolveAssemblyReference.cache
+E:\tomcat\workspace\CoverageCoverter\CoverageCoverter\bin\Debug\CoverageCoverter.exe
+E:\tomcat\workspace\CoverageCoverter\CoverageCoverter\bin\Debug\CoverageCoverter.pdb
+E:\tomcat\workspace\CoverageCoverter\CoverageCoverter\bin\Debug\Microsoft.VisualStudio.Coverage.Analysis.dll
+E:\tomcat\workspace\CoverageCoverter\CoverageCoverter\bin\Debug\Microsoft.VisualStudio.Coverage.Interop.dll
+E:\tomcat\workspace\CoverageCoverter\CoverageCoverter\bin\Debug\zh-Hans\Microsoft.VisualStudio.Coverage.Analysis.resources.dll
+E:\tomcat\workspace\CoverageCoverter\CoverageCoverter\obj\Debug\CoverageCoverter.exe
+E:\tomcat\workspace\CoverageCoverter\CoverageCoverter\obj\Debug\CoverageCoverter.pdb
